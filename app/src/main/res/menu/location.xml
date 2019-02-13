@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item android:title="Location On" android:id="@+id/location_on" android:orderInCategory="1" />
+    <item android:title="Location Off" android:id="@+id/location_off" android:orderInCategory="2" />
+
+</menu>

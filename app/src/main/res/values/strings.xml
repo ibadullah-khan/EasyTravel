@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EaseTravel</string>
+    <string name="title_activity_passenger_maps">PassengerMaps</string>
+    <string name="title_activity_driver_maps">Map</string>
+</resources>

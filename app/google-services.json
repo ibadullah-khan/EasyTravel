@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "470098154795",
+    "firebase_url": "https://easetravel-f167c.firebaseio.com",
+    "project_id": "easetravel-f167c",
+    "storage_bucket": "easetravel-f167c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470098154795:android:7b797778d0f2f9e3",
+        "android_client_info": {
+          "package_name": "com.example.dell.easetravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470098154795-3145cipkae2rt77of5tjbb71krvnpft5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.easetravel",
+            "certificate_hash": "fa36728cde2300822559db0d5691bae2b818bfe2"
+          }
+        },
+        {
+          "client_id": "470098154795-d1c63pl6k16i94nhtfq9bosjcf0ll1q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQjp-oIZOQ8DMAgSqSLqfYKB3dVDNxgws"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470098154795-d1c63pl6k16i94nhtfq9bosjcf0ll1q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
